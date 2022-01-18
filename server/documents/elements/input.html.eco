@@ -16,6 +16,12 @@ themes      : ['Default', 'GitHub']
 <%- @partial('header') %>
 <script src="/javascript/input.js"></script>
 <link rel="stylesheet/less" type="text/css" href="/src/definitions/elements/input.less" />
+<style>
+  *{
+    bacground-color : rgb(128, 128, 128);
+  }
+
+</style>
 
 <div class="main ui container">
 
